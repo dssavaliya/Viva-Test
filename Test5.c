@@ -11,7 +11,7 @@ void main()
 		{
 			if(k%2==0)
 			{
-				printf("%c",(char)(l+96));		
+				printf("%c",(char)(l+64));		
 			}
 			else
 			{
